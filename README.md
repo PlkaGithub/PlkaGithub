@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Tame
+- 👀 I’m interested in coding and games
+- 🌱 I’m currently learning how to code in lua
+- 📫 You can reach me on discord 
+- Tame#0558
